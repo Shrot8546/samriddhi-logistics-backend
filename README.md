@@ -20,7 +20,7 @@ This runs an Express server on port defined in `.env` (default 3000) and exposes
 
 Client
 
-The quick form in `index.html` posts to `http://localhost:3000/send-quote`. When the server successfully sends the email the form shows a toast confirmation.
+The quick form in `index.html` posts to `https://samriddhi-logistics-backend.onrender.com/send-quote`. When the server successfully sends the email the form shows a toast confirmation.
 
 Notes
 
